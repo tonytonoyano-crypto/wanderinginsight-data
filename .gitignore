@@ -1,0 +1,4 @@
+*.npy
+**/assets/*/flood/
+__pycache__/
+.DS_Store
